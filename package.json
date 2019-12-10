@@ -28,5 +28,10 @@
   "bugs": {
     "url": "https://github.com/AndyA/OXOXO/issues"
   },
-  "homepage": "https://github.com/AndyA/OXOXO#readme"
+  "homepage": "https://github.com/AndyA/OXOXO#readme",
+  "dependencies": {
+    "app-module-path": "^2.2.0",
+    "iterablefu": "^0.4.0",
+    "lodash": "^4.17.15"
+  }
 }
