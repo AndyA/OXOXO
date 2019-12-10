@@ -1,0 +1,32 @@
+{
+  "name": "oxoxo",
+  "version": "0.0.1",
+  "description": "Noughts and Crosses and more",
+  "main": "index.js",
+  "bin": {
+    "oxoxo": "oxoxo.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyA/OXOXO.git"
+  },
+  "keywords": [
+    "Game",
+    "OXO",
+    "Zeros",
+    "and",
+    "Ones",
+    "Noughts",
+    "and",
+    "Crosses"
+  ],
+  "author": "Andy Armstrong <andy@hexten.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndyA/OXOXO/issues"
+  },
+  "homepage": "https://github.com/AndyA/OXOXO#readme"
+}
