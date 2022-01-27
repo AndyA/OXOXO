@@ -56,7 +56,7 @@
     "jquery": "^3.4.1",
     "lodash": "^4.17.15",
     "path": "^0.12.7",
-    "three": "^0.111.0",
+    "three": "^0.137.0",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0",
     "watchify": "^3.11.1"
